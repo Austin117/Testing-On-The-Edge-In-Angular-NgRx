@@ -1,4 +1,19 @@
-# Angular-ngrx-GettingStarted
+# Testing on the Edge in Angular NGRX
+TBD content
+
+To do:
+- Setup directory structure
+- Determine kata goal (e.g. test drive new feature with both styles of testing)
+- Write edge tests
+- Write isolated tests
+
+Doing:
+- test git
+
+Done:
+
+
+# Old Content for Angular-ngrx-GettingStarted
 Materials for NgRx course.
 
 `APM-Demo0`: The starter files for this course. **Use this to code along with the course**.
