@@ -8,10 +8,11 @@ To do:
 - Write isolated tests
 
 Doing:
-- test git
+- run wallaby for existing tests
 
 Done:
-
+- test git push
+- run website apm demo 5
 
 # Old Content for Angular-ngrx-GettingStarted
 Materials for NgRx course.
