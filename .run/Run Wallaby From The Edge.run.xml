@@ -1,0 +1,5 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Run Wallaby From The Edge" type="wallaby" factoryName="wallaby" singleton="false" configType="Automatic" configFolder="$PROJECT_DIR$/TestingOnTheEdge" wsl="No">
+    <method v="2" />
+  </configuration>
+</component>

@@ -1,16 +1,17 @@
 # Testing on the Edge in Angular NGRX
-TBD content
+TBD content and instructions
 
 To do:
-- Setup directory structure
-- Determine kata goal (e.g. test drive new feature with both styles of testing)
-- Write edge tests
-- Write isolated tests
+- determine kata goal (e.g. test drive new feature with both styles of testing, or make part of each directory have dirty non-ngrx code and have it refactored)
+- write tests from the inside
+- clean up all read me's
 
 Doing:
-- run wallaby for existing tests
+- write tests from the edge
 
 Done:
+- setup directory structure
+- setup and run wallaby for placeholder tests
 - test git push
 - run website apm demo 5
 
